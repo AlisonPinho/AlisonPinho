@@ -7,12 +7,12 @@ I am a systems analyst and have been working with Full Stack development since 2
 
 I am passionate about solving problems and learning from it. Always open to new challenges and ready to face changes.
 
-###🚀"Every day a new learning!"
+<h3>🚀"Every day a new learning!"</h3>
 
 - 📍 From MG living in Belo Horizonte / Itabira
 - 💻Network analyst at [Valenet](https://valenet.com.br/#)
 
-#####My Skills
+<h5>My Skills</h5>
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img> </img><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="github" width="40" height="40" style="max-width:100%;"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 
