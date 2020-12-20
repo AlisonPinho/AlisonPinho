@@ -1,3 +1,4 @@
+
 ### Hello Dev ! 👋🏽
 ___
 
@@ -18,6 +19,7 @@ I am passionate about solving problems and learning from it. Always open to new 
 
 
 Reach me out 👇🏽
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alison-eduardo-0b8a2a184/)](https://www.linkedin.com/in/alison-eduardo-0b8a2a184/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/alison-eduardo-0b8a2a184/)](https://www.linkedin.com/in/alison-eduardo-0b8a2a184/)
 
 
