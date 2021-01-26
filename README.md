@@ -15,7 +15,18 @@ I am passionate about solving problems and learning from it. Always open to new 
 
 <h5>My Skills</h5>
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img> </img><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="github" width="40" height="40" style="max-width:100%;"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/nolan/64/api-settings.png"/>
+<img src="https://img.icons8.com/color/48/000000/docker.png"/>
+<img src="https://img.icons8.com/color/48/000000/linux.png"/>
+<img src="https://img.icons8.com/doodle/48/000000/console--v2.png"/>
+
 
 
 Reach me out 👇🏽
