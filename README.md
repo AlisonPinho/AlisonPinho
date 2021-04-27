@@ -15,7 +15,7 @@ I am passionate about solving problems and learning from it. Always open to new 
 
 <h5>My Skills</h5>
 
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/><img src="https://img.icons8.com/nolan/64/api-settings.png"/><img src="https://img.icons8.com/color/48/000000/docker.png"/><img src="https://img.icons8.com/color/48/000000/linux.png"/><img src="https://img.icons8.com/doodle/48/000000/console--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/><img src="https://img.icons8.com/nolan/64/api-settings.png"/><img src="https://img.icons8.com/color/48/000000/docker.png"/><img src="https://img.icons8.com/color/48/000000/linux.png"/><img src="https://img.icons8.com/doodle/48/000000/console--v2.png"/>
 
 
 Reach me out 👇🏽
